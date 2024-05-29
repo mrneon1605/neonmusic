@@ -1,7 +1,7 @@
-<h1 align="center"> Inflex Music Bot <\> </h1>
+<h1 align="center"> 𝒩𝐸𝒪𝒩 𝑀𝒰𝒮𝐼𝒞 <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://graph.org/file/b76ab1a36d2fa10a95f0c.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
@@ -99,16 +99,16 @@ The Inflex Music Bot Offers A Range Of Commands To Enhance Your Music Listening 
 | `/stop`                 | Stop The Bot And Clear The Queue.           |
 | `/queue`                | Display The List Of Songs In The Queue.     |
 
-For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicBot).
+For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/neonupdate).
 
 ---
 
 ### 🔄 Updates & Support
 
-Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
+Stay Updated With The Latest Features And Improvements To Neon Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/InflexSupport">
+  <a href="https://telegram.me/neonupdate">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
   <a href="https://telegram.me/TeamInflex">
